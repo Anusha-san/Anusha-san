@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm ANUSHA
 #ABOUT ME
 Im a data science learner and wants to amke a career out of it . I love learning new things and am flexible with work and descision making when needed .
 
