@@ -1,4 +1,6 @@
 ### Hi there 👋
+#ABOUT ME
+Im a data science learner and wants to amke a career out of it . I love learning new things and am flexible with work and descision making when needed .
 
 <!--
 **Anusha-san/Anusha-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
