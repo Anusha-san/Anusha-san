@@ -2,6 +2,13 @@
 #ABOUT ME
 Im a data science learner and wants to amke a career out of it . I love learning new things and am flexible with work and descision making when needed . i have a keen knowledge of python, R, and Sql in data science field. Along with , I also have little knowledge of java and other basic languages . also always ready to learn any new technologies.
 
+- 🔭 I’m currently working on Quantum Machine Learning
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on blockchain projects
+- 📫 How to reach me: anusha6620152gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: im also a pretty well artists 🎨 
+
 #My stats
 
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Anusha-san)
@@ -15,12 +22,5 @@ Im a data science learner and wants to amke a career out of it . I love learning
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
