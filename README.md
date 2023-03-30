@@ -7,7 +7,7 @@ Im a data science learner and wants to make a career out of it . I love learning
 - 👯 I’m looking to collaborate on blockchain projects
 - 📫 How to reach me: anusha6620152gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: im also a pretty well artists 🎨 
+- ⚡ Fun fact: im also a pretty well artist 🎨 
 
 #My stats
 
