@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm ANUSHA
 #ABOUT ME
-Im a data science learner and wants to make a career out of it . I love learning new things and am flexible with work and descision making when needed . i have a keen knowledge of python, R, and Sql in data science field. Along with , I also have little knowledge of java and other basic languages . also always ready to learn any new technologies.
+Im a data science learner and wants to make a career out of it . I love learning new things and am flexible with work and descision making when needed . I have a keen knowledge of python, R, and Sql in data science field. Along with , I also have little knowledge of java and other basic languages .Always ready to learn any new technologies.
 
 - 🔭 I’m currently working on Quantum Machine Learning
 - 🌱 I’m currently learning Blockchain
