@@ -5,9 +5,9 @@ Im a data science learner and wants to make a career out of it . I love learning
 - 🔭 I’m currently working on Quantum Machine Learning
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on blockchain projects
-- 📫 How to reach me: anusha6620152gmail.com
+- 📫 How to reach me: anusha662015gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: im also a pretty well artist 🎨 
+- ⚡ Fun fact: Im also a pretty well artist 🎨 
 
 #My stats
 
